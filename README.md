@@ -1,2 +1,2 @@
 # Codeforces-Problem-Practice-Code
-Its forpersonal use.Dont take it seriously
+Its for personal use.Dont take it seriously
